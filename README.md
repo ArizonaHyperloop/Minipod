@@ -1,2 +1,2 @@
 # Minipod
-small scale prototype hyperloop pod
+Small scale prototype hyperloop pod
